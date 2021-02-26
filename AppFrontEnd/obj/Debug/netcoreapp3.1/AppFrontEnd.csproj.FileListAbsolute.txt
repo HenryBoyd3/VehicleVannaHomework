@@ -1,0 +1,15 @@
+C:\Users\tomjo\source\repos\AppFrontEnd\bin\Debug\netcoreapp3.1\AppFrontEnd.exe
+C:\Users\tomjo\source\repos\AppFrontEnd\bin\Debug\netcoreapp3.1\AppFrontEnd.deps.json
+C:\Users\tomjo\source\repos\AppFrontEnd\bin\Debug\netcoreapp3.1\AppFrontEnd.runtimeconfig.json
+C:\Users\tomjo\source\repos\AppFrontEnd\bin\Debug\netcoreapp3.1\AppFrontEnd.runtimeconfig.dev.json
+C:\Users\tomjo\source\repos\AppFrontEnd\bin\Debug\netcoreapp3.1\AppFrontEnd.dll
+C:\Users\tomjo\source\repos\AppFrontEnd\bin\Debug\netcoreapp3.1\AppFrontEnd.pdb
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.csprojAssemblyReference.cache
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.Form1.resources
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.csproj.GenerateResource.cache
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.AssemblyInfoInputs.cache
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.AssemblyInfo.cs
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.dll
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.pdb
+C:\Users\tomjo\source\repos\AppFrontEnd\obj\Debug\netcoreapp3.1\AppFrontEnd.genruntimeconfig.cache
